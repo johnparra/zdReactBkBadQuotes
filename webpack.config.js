@@ -36,7 +36,7 @@ module.exports = {
   entry: {
     app: [
       'babel-polyfill',
-      './src/javascripts/locations/ticket_sidebar.js',
+      './src/javascripts/modules/index.js',
       './src/index.css'
     ]
   },
